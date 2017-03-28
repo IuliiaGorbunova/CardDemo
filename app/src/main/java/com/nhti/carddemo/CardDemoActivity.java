@@ -33,6 +33,7 @@ public class CardDemoActivity extends AppCompatActivity {
         collapsingToolbarLayout.setTitle("My Toolbar Title");
         collapsingToolbarLayout.setContentScrimColor(Color.GREEN);
 
+        
         recyclerView =
                 (RecyclerView) findViewById(R.id.recycler_view);
 
